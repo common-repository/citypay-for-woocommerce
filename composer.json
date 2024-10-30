@@ -1,0 +1,16 @@
+{
+    "name": "plugandpay/citypay-for-woocommerce",
+    "type": "wordpress-plugin",
+    "license": "GPL-3.0-or-later",
+    "authors": [
+        {
+            "name": "Plug and Pay Ltd.",
+            "email": "support@plugandpay.ge"
+        }
+    ],
+    "autoload": {
+        "classmap": [
+            "includes/"
+        ]
+    }
+}
